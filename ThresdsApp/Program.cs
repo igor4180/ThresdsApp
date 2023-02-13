@@ -24,7 +24,7 @@ static void ConsoleWrite(object	 my)
 		Console.WriteLine("Из потока:" + i);
 	}
 	Console.WriteLine(message);
-}
+} 
 
 class MyObject
 {
